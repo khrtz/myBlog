@@ -6,9 +6,6 @@ categories:
 author: _X_y_z_
 layout: blog
 ---
-# てすと
-
-![undefined](/source/images/ET_lnOxUEAAldzQ.jpg)
-
+![null](/source/images/ET_lnOxUEAAldzQ.jpg)
 
 
