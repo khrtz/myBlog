@@ -6,6 +6,5 @@ categories:
 author: _X_y_z_
 layout: blog
 ---
-![null](/source/images/ET_lnOxUEAAldzQ.jpg)
 
-
+{% asset_img lena.bmp atsumori.jpg %}
