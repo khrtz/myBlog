@@ -8,9 +8,7 @@ layout: blog
 ---
 # てすと
 
- ```
-  <img src="/source/images/ET_lnOxUEAAldzQ.jpg" width=200>
- ```
+![undefined](/source/images/ET_lnOxUEAAldzQ.jpg)
 
 
 
