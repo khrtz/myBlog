@@ -8,6 +8,9 @@ layout: blog
 ---
 # てすと
 
-<img src="/source/images/ET_lnOxUEAAldzQ.jpg" width="400px">
+ ```
+  <img src="/source/images/ET_lnOxUEAAldzQ.jpg" width=200>
+ ```
+
 
 
