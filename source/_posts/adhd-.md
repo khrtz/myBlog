@@ -3,7 +3,7 @@ title: ADHD治療
 date: 2020-03-27T02:31:56.460Z
 categories:
   - ADHD
-author: _X_y_z_
+author: khrtz
 layout: blog
 ---
 # ADHD
